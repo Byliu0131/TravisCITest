@@ -1,5 +1,5 @@
 def main
-  puts "hello"
+  puts "bye"
   return 0
 end
 

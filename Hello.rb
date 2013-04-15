@@ -1,5 +1,5 @@
 def main
-  puts "bye"
+  puts "Test?"
   return 0
 end
 
